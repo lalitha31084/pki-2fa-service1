@@ -13,4 +13,4 @@ instructor_public.pem
 
 # Ignore IDE files
 .vscode/
-.idea/
+.idea/private.pem
